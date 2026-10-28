@@ -1,0 +1,5 @@
+{
+  "name": "bro-gang-repo",
+  "private": true,
+  "dependencies": { "smol-toml": "^1.3.0" }
+}
